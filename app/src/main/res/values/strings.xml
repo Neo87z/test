@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OURMAD</string>
+    <string name="RequestId">Request ID :-</string>
+    <string name="RequestedBy">Requested By :-</string>
+    <string name="Title"> Title :- </string>
+    <string name="Deadline">Dead Line :-</string>
+    <string name="Contact">Phone :-</string>
+    <string name="status">Status :- </string>
+    <string name="editDetails">Edit Details</string>
+    <string name="CloseRequest">Close Request</string>
+    <string name="Offer">Make An Offer</string>
+    <string name="ContactCus">Contact Customer</string>
+    <string name="msgCus">Message Customer</string>
+</resources>
