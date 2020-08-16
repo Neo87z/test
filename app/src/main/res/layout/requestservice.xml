@@ -64,10 +64,10 @@
         android:background="@drawable/rectangle"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.436"
+        app:layout_constraintHorizontal_bias="0.492"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.219" />
+        app:layout_constraintVertical_bias="0.231" />
 
     <View
         android:id="@+id/divider2"
@@ -125,7 +125,7 @@
         android:id="@+id/textView16"
         android:layout_width="225dp"
         android:layout_height="31dp"
-        android:layout_marginTop="96dp"
+        android:layout_marginTop="108dp"
         android:fontFamily="monospace"
         android:text="MAKE A REQUEST"
         android:textAllCaps="true"
@@ -133,7 +133,7 @@
         android:textSize="22sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.532"
+        app:layout_constraintHorizontal_bias="0.575"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -242,7 +242,7 @@
         app:layout_constraintHorizontal_bias="0.442"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.854" />
+        app:layout_constraintVertical_bias="0.82" />
 
     <EditText
         android:id="@+id/editTextTextMultiLine"
