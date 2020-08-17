@@ -163,7 +163,6 @@
         android:layout_marginBottom="279dp"
         android:fontFamily="sans-serif-condensed"
         android:lineSpacingExtra="30sp"
-        android:text="Brief Description :-"
         android:textAllCaps="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textSize="18sp"
@@ -172,7 +171,8 @@
         app:layout_constraintBottom_toBottomOf="@+id/tableLayout"
         app:layout_constraintEnd_toEndOf="@+id/tableLayout"
         app:layout_constraintStart_toStartOf="@+id/tableLayout"
-        app:layout_constraintTop_toTopOf="@+id/tableLayout" />
+        app:layout_constraintTop_toTopOf="@+id/tableLayout"
+        tools:text="@string/Brief" />
 
     <TextView
         android:id="@+id/textView5"

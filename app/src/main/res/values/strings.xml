@@ -11,4 +11,7 @@
     <string name="Offer">Make An Offer</string>
     <string name="ContactCus">Contact Customer</string>
     <string name="msgCus">Message Customer</string>
+    <string name="Assing">Assinged to:- </string>
+    <string name="Brief">Brief Description :-</string>
+    <string name="deadline">Deadline</string>
 </resources>
